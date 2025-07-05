@@ -22,7 +22,6 @@ I use Natural Language Processing (NLP) techniques and traditional machine learn
 toxic-comment-classification/
 │
 ├── main.ipynb
-
 ├── README.md 
 ├── requirements.txt  
 ├── images/  
