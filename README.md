@@ -17,6 +17,8 @@ I use Natural Language Processing (NLP) techniques and traditional machine learn
 ---
 
 ## File Structure
+
+```bash
 toxic-comment-classification/
 │
 ├── main.ipynb
@@ -27,6 +29,7 @@ toxic-comment-classification/
     ├── class_dist.png 
     ├── wordcloud.png 
     └── correlation.png 
+```
 
 ---
 
@@ -48,7 +51,7 @@ The dataset contains over 150,000 Wikipedia comments labeled across 6 categories
 
 ---
 
-## 📊 Key Features
+## Key Features
 Multi-label classification (each comment can have multiple toxic tags)
 
 Advanced data visualization:
@@ -88,8 +91,6 @@ All models are wrapped using OneVsRestClassifier for multi-label classification.
 | Class Distribution | Word Cloud |
 |--------------------|------------|
 | ![dist](images/class_dist.png) | ![wordcloud](images/wordcloud.png) |
-
-> Add these plots manually into an `images/` folder to show them on GitHub.
 
 ---
 
