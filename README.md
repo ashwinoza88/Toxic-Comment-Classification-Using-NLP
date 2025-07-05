@@ -14,8 +14,6 @@ I use Natural Language Processing (NLP) techniques and traditional machine learn
 
 ---
 
----
-
 ## File Structure
 
 ```bash
